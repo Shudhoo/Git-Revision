@@ -11,3 +11,5 @@ add1.add()
 def sub(a,b):
 
 def div(a,b):
+
+def mod(a,b): [branch test3 mod]
