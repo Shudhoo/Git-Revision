@@ -9,3 +9,5 @@ add1=add(2,3)
 add1.add()
 
 def sub(a,b):
+
+def div(a,b):
